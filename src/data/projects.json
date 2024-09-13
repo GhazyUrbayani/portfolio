@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Food Delivery Order Application",
+    "imageSrc": "projects/4.png",
+    "description": "Tugas Besar KU1102 Pengenalan Komputasi",
+    "skills": ["Simple Python", "Terminal System"]
+  },
+  {
+    "title": "Data Analysis",
+    "imageSrc": "projects/2.png",
+    "description": "Tugas Besar KU1102 Pengenalan Komputasi",
+    "skills": ["Simple Python", "Terminal System", "Pandas Library"]
+  },
+  {
+    "title": "Monster Battle Games app",
+    "imageSrc": "projects/3.png",
+    "description": "Tugas Besar IF1210 Dasar Pemrograman",
+    "skills": ["Python", "Terminal system", "File Processing System"]
+  },
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/1.png",
+      "description": "Tugas OsJur SPARTA",
+      "skills": ["JavaScript", "JavaScript XML", "ReactJS"]
+    }
+]
